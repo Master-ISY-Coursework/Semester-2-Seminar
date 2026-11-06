@@ -1,0 +1,6 @@
+[submodule "external/DCI-Agent-Lite"]
+	path = external/DCI-Agent-Lite
+	url = https://github.com/DCI-Agent/DCI-Agent-Lite.git
+[submodule "external/BrowseComp-Plus"]
+	path = external/BrowseComp-Plus
+	url = https://github.com/texttron/BrowseComp-Plus.git
