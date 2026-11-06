@@ -1,0 +1,7 @@
+{
+  "context_tokens": 4096,
+  "models": {
+    "seminar-answer": "qwen3:1.7b-q4_K_M",
+    "seminar-judge": "qwen3:4b-q4_K_M"
+  }
+}
